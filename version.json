@@ -1,6 +1,6 @@
 {
   "device": "SmartFeedMonitor",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "firmware": "https://raw.githubusercontent.com/peak0401/SmartFeedOTA/main/firmware.bin",
   "force": false,
   "min_version": "1.0.0",
