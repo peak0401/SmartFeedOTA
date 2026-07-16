@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "firmware": "https://raw.githubusercontent.com/peak0401/SmartFeedOTA/main/firmware.bin",
   "force": false,
-  "min_version": "1.0.0",
+  "min_version": "1.0.6",
   "description": "Initial Release",
   "size": 0
 }
