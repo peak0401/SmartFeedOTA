@@ -1,8 +1,8 @@
 {
-  "device": "SmartFeedMonitor",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "firmware": "https://raw.githubusercontent.com/peak0401/SmartFeedOTA/main/firmware.bin",
   "force": false,
+  "target": "Chickหนองคาย",
   "min_version": "1.0.0",
   "description": "Initial Release",
   "size": 0
